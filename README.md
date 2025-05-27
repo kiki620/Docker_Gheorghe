@@ -1,6 +1,7 @@
 # Docker_Gheorghe
 trabajo de Docker 2025
-
+--ARCHIVO YML--
+CREACIÓN DE SEVIDOR NEXTCLOUD CON UNA BASE DE DATOS EXISTENTE Y CON CRON.
 version: '3.9'
 
 services:
